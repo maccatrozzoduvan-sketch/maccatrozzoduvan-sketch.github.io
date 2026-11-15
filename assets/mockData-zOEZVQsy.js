@@ -1,10 +1,10 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/ProductViewer3D-Cl4y3WUd.js","assets/three-BFifxZUz.js","assets/STLLoader-kNC-GjVd.js","assets/index-DEVFAtM6.js","assets/index-D1AgCUHd.css"])))=>i.map(i=>d[i]);
-import{c as ja}from"./index-DEVFAtM6.js";import{j as K,r as _a,_ as Qa}from"./three-BFifxZUz.js";/**
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/ProductViewer3D-B4Vrac3a.js","assets/three-BFifxZUz.js","assets/STLLoader-kNC-GjVd.js","assets/index-CnNvJEeX.js","assets/index-9Aqquo9-.css"])))=>i.map(i=>d[i]);
+import{c as ja}from"./index-CnNvJEeX.js";import{j as K,r as _a,_ as Qa}from"./three-BFifxZUz.js";/**
  * @license lucide-react v0.511.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */const $a=[["path",{d:"M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z",key:"hh9hay"}],["path",{d:"m3.3 7 8.7 5 8.7-5",key:"g66t2b"}],["path",{d:"M12 22V12",key:"d0xqtd"}]],lt=ja("box",$a),Ja=_a.lazy(()=>Qa(()=>import("./ProductViewer3D-Cl4y3WUd.js"),__vite__mapDeps([0,1,2,3,4])).then(u=>({default:u.ProductViewer3D}))),mt=u=>K.jsx(_a.Suspense,{fallback:K.jsx("div",{className:"h-full min-h-[200px] w-full animate-pulse bg-paper-deep"}),children:K.jsx(Ja,{...u})});/*
+ */const $a=[["path",{d:"M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z",key:"hh9hay"}],["path",{d:"m3.3 7 8.7 5 8.7-5",key:"g66t2b"}],["path",{d:"M12 22V12",key:"d0xqtd"}]],lt=ja("box",$a),Ja=_a.lazy(()=>Qa(()=>import("./ProductViewer3D-B4Vrac3a.js"),__vite__mapDeps([0,1,2,3,4])).then(u=>({default:u.ProductViewer3D}))),mt=u=>K.jsx(_a.Suspense,{fallback:K.jsx("div",{className:"h-full min-h-[200px] w-full animate-pulse bg-paper-deep"}),children:K.jsx(Ja,{...u})});/*
 @license
 The MIT License (MIT)
 
